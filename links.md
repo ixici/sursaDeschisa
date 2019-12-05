@@ -27,3 +27,4 @@
 - [Zen - Online Text Editor](https://zen.unit.ms/)
 - [Research
 The JEDI Contract: What really happened?](https://www.cloudmanagementinsider.com/the-jedi-contract-what-really-happened/)
+- [Bret Victor - The Future Of Programming: Changing Technology is Easy; Changing How People Think is Hard](https://vimeo.com/71278954)
