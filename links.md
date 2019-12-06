@@ -1,5 +1,6 @@
 # Just some links
 
+- [Why So Many of Us Experience a Midlife Crisis](https://getpocket.com/explore/item/why-so-many-of-us-experience-a-midlife-crisis)
 - [Try Ubuntu 19.10 - seems to be fast](https://arstechnica.com/gadgets/2019/11/ubuntu-19-10-quite-simply-the-best-ubuntu-canonical-has-ever-released/)
 - [Slap text editor sublime style but in console](https://github.com/slap-editor/slap)
 - [How Artificial Intelligence Can Transform Software Development](https://medium.com/@michael.lyamm/can-ai-powered-tools-transform-software-development-fff502473e87)
@@ -25,6 +26,5 @@
 - [Report: Apple will launch iPhone SE 2 with iPhone 8 design and A13 chipset](https://www.gsmarena.com/report_apple_will_launch_iphone_se_2_with_iphone_8_design_and_a13_chipset-news-39476.php)
 - [Researchers' new method enables identifying a person through walls from candidate video footage, using only WiFi](https://techxplore.com/news/2019-10-method-enables-person-walls-candidate.html)
 - [Zen - Online Text Editor](https://zen.unit.ms/)
-- [Research
-The JEDI Contract: What really happened?](https://www.cloudmanagementinsider.com/the-jedi-contract-what-really-happened/)
+- [The JEDI Contract: What really happened?](https://www.cloudmanagementinsider.com/the-jedi-contract-what-really-happened/)
 - [Bret Victor - The Future Of Programming: Changing Technology is Easy; Changing How People Think is Hard](https://vimeo.com/71278954)
