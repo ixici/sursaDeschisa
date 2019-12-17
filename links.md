@@ -1,5 +1,6 @@
 # Just some links
 
+- [What Happened to Software Development?](https://hackernoon.com/what-happened-to-software-development-j92032w9)
 - [Why So Many of Us Experience a Midlife Crisis](https://getpocket.com/explore/item/why-so-many-of-us-experience-a-midlife-crisis)
 - [Try Ubuntu 19.10 - seems to be fast](https://arstechnica.com/gadgets/2019/11/ubuntu-19-10-quite-simply-the-best-ubuntu-canonical-has-ever-released/)
 - [Slap text editor sublime style but in console](https://github.com/slap-editor/slap)
