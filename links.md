@@ -1,5 +1,16 @@
 # Just some links
 
+- [Authorize.net - Accept credit cards, contactless payments, and e-checks in person and on the go.](https://www.authorize.net/)
+- [How to undo (almost) anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
+- [Manifesto for Agile Software Development](https://agilemanifesto.org/)
+- [Why “Scrum” Isn’t Making Your Company Very Agile, How Misconceptions About The Product Owner Role Harm Your Organization, And What To Do About It.](https://seattlescrum.com/Why-Scrum-Isnt-Making-Your-Company-Very-Agile/)
+- [Scrum Training Series](http://scrumtrainingseries.com/)
+- [The Definitive Guide to Scrum: The Rules of the Game (PDF)](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf#zoom=100)
+- [How to Become an Effective ScrumMaster (and What to Expect Your First Month)](https://medium.com/swlh/how-to-become-an-effective-scrummaster-and-what-to-expect-your-first-month-d3c36a1c47b)
+- [2020 will see AI move from buzzwords to solutions](https://thenextweb.com/podium/2019/12/21/2020-will-see-ai-move-from-buzzwords-to-solutions/)
+- [Why the next professional network will look nothing like LinkedIn - As LinkedIn unbundles, SaaS companies emerge as leaders of the new professional networks](https://wfh.substack.com/p/why-the-next-professional-network)
+- [Jarvis Cocker / Running the World / Great performance at French TV](https://www.youtube.com/watch?v=deiWnZK-duM&feature=emb_title)
+- [Kurt Gödel and the mechanization of mathematics - Juliette Kennedy discusses Kurt Gödel’s Incompleteness Theorems: the ingenious proofs and enduring impact](https://www.the-tls.co.uk/articles/kurt-godel-incompleteness-theorems/)
 - [What Happened to Software Development?](https://hackernoon.com/what-happened-to-software-development-j92032w9)
 - [Why So Many of Us Experience a Midlife Crisis](https://getpocket.com/explore/item/why-so-many-of-us-experience-a-midlife-crisis)
 - [Try Ubuntu 19.10 - seems to be fast](https://arstechnica.com/gadgets/2019/11/ubuntu-19-10-quite-simply-the-best-ubuntu-canonical-has-ever-released/)
