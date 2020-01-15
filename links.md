@@ -1,5 +1,6 @@
 # Just some links
 
+- [How to Make a Raspberry Pi VPN Server](https://www.electromaker.io/tutorial/blog/raspberry-pi-vpn-server)
 - [Authorize.net - Accept credit cards, contactless payments, and e-checks in person and on the go.](https://www.authorize.net/)
 - [How to undo (almost) anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
 - [Manifesto for Agile Software Development](https://agilemanifesto.org/)
