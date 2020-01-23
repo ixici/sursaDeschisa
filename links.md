@@ -1,5 +1,6 @@
 # Just some links
 
+- [The expense sharing app -- made with Flutter, Firebase and ❤️](https://github.com/michaelroudnitski/Tabs)
 - [1ManStartup video tutorials](https://www.youtube.com/channel/UC8xcnxN4CyXdPCeUN1eURPg/videos)
 - [NomadBSD is a persistent live system for USB flash drives, based on FreeBSD](https://nomadbsd.org/download.html)
 - [How to Make a Raspberry Pi VPN Server](https://www.electromaker.io/tutorial/blog/raspberry-pi-vpn-server)
