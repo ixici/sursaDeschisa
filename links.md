@@ -1,5 +1,6 @@
 # Just some links
 
+- [3 Steps Simple Drag-and-Drop File Upload (PHP, JS, HTML5)](https://code-boxx.com/simple-drag-and-drop-file-upload/)
 - [The expense sharing app -- made with Flutter, Firebase and ❤️](https://github.com/michaelroudnitski/Tabs)
 - [1ManStartup video tutorials](https://www.youtube.com/channel/UC8xcnxN4CyXdPCeUN1eURPg/videos)
 - [NomadBSD is a persistent live system for USB flash drives, based on FreeBSD](https://nomadbsd.org/download.html)
