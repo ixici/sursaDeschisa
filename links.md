@@ -1,5 +1,6 @@
 # Just some links
 
+- [stettix/things-i-believe.md](https://gist.github.com/stettix/5bb2d99e50fdbbd15dd9622837d14e2b)
 - [3 Steps Simple Drag-and-Drop File Upload (PHP, JS, HTML5)](https://code-boxx.com/simple-drag-and-drop-file-upload/)
 - [The expense sharing app -- made with Flutter, Firebase and ❤️](https://github.com/michaelroudnitski/Tabs)
 - [1ManStartup video tutorials](https://www.youtube.com/channel/UC8xcnxN4CyXdPCeUN1eURPg/videos)
