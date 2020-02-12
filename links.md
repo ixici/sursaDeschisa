@@ -1,5 +1,6 @@
 # Just some links
 
+- [Guide: Kali Linux 2020 & 2019 Live USB with Encrypted Persistence (Windows)](https://devanswers.co/guide-kali-linux-2018-live-usb-encrypted-persistence-windows/)
 - [stettix/things-i-believe.md](https://gist.github.com/stettix/5bb2d99e50fdbbd15dd9622837d14e2b)
 - [3 Steps Simple Drag-and-Drop File Upload (PHP, JS, HTML5)](https://code-boxx.com/simple-drag-and-drop-file-upload/)
 - [The expense sharing app -- made with Flutter, Firebase and ❤️](https://github.com/michaelroudnitski/Tabs)
