@@ -1,5 +1,7 @@
 # Just some links
 
+- [Homebridge is a lightweight NodeJS server you can run on your home network that emulates the iOS HomeKit AP](https://github.com/nfarina/homebridge)
+- [homebridge-camera-ffmpeg ffmpeg plugin for Homebridge](https://github.com/KhaosT/homebridge-camera-ffmpeg)
 - [Guide: Kali Linux 2020 & 2019 Live USB with Encrypted Persistence (Windows)](https://devanswers.co/guide-kali-linux-2018-live-usb-encrypted-persistence-windows/)
 - [stettix/things-i-believe.md](https://gist.github.com/stettix/5bb2d99e50fdbbd15dd9622837d14e2b)
 - [3 Steps Simple Drag-and-Drop File Upload (PHP, JS, HTML5)](https://code-boxx.com/simple-drag-and-drop-file-upload/)
