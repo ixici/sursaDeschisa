@@ -1,0 +1,11 @@
+@font-face {font-family:MathJax_AMS; src:url("fonts/MathJax_AMS-Regular.woff") format("woff");font-display: block;}
+@font-face {font-family:MathJax_Caligraphic; src:url("fonts/MathJax_Caligraphic-Regular.woff") format("woff");font-display: block;}
+@font-face {font-family:MathJax_Main; src:url("fonts/MathJax_Main-Regular.woff") format("woff");font-display: block;}
+@font-face {font-family:MathJax_Main-bold; src:url("fonts/MathJax_Main-Bold.woff") format("woff");font-weight:bold;font-display: block;}
+@font-face {font-family:MathJax_Main-italic; src:url("fonts/MathJax_Main-Italic.woff") format("woff");font-style:italic;font-display: block;}
+@font-face {font-family:MathJax_Math; src:url("fonts/MathJax_Math-Regular.woff") format("woff");font-display: block;}
+@font-face {font-family:MathJax_Math-italic; src:url("fonts/MathJax_Math-Italic.woff") format("woff");font-style:italic;font-display: block;}
+@font-face {font-family:MathJax_Size1; src:url("fonts/MathJax_Size1-Regular.woff") format("woff");font-display: block;}
+@font-face {font-family:MathJax_Size2; src:url("fonts/MathJax_Size2-Regular.woff") format("woff");font-display: block;}
+@font-face {font-family:MathJax_Size3; src:url("fonts/MathJax_Size3-Regular.woff") format("woff");font-display: block;}
+@font-face {font-family:MathJax_Size4; src:url("fonts/MathJax_Size4-Regular.woff") format("woff");font-display: block;}
