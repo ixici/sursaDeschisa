@@ -1,5 +1,7 @@
 # Just some links
 
+- [Deep Thoughts Engineering Speaker Series: John Carmack](https://www.youtube.com/watch?v=dSCBCk4xVa0)
+- [How hard will the robots make us work?](https://www.theverge.com/platform/amp/2020/2/27/21155254/automation-robots-unemployment-jobs-vs-human-google-amazon?__twitter_impression=true)
 - [Homebridge is a lightweight NodeJS server you can run on your home network that emulates the iOS HomeKit AP](https://github.com/nfarina/homebridge)
 - [homebridge-camera-ffmpeg ffmpeg plugin for Homebridge](https://github.com/KhaosT/homebridge-camera-ffmpeg)
 - [Guide: Kali Linux 2020 & 2019 Live USB with Encrypted Persistence (Windows)](https://devanswers.co/guide-kali-linux-2018-live-usb-encrypted-persistence-windows/)
