@@ -1,1 +1,2 @@
 - [12 întrebări și răspunsuri despre câștigurile din criptomonede și obligațiile legale aferente](https://www.avocatnet.ro/articol_53733/12-intreb%C4%83ri-%C8%99i-r%C4%83spunsuri-despre-ca%C8%99tigurile-din-criptomonede-%C8%99i-obliga%C8%9Biile-legale-aferente.html)
+- [The Base58 Encoding Scheme - draft-msporny-base58-01](https://tools.ietf.org/id/draft-msporny-base58-01.html)
