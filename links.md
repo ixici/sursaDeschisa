@@ -1,5 +1,9 @@
 # Just some links
 
+- [Netflix’s ‘The Platform’ Is A Brutal Capitalist Horror Film For Precisely This Moment](https://www.forbes.com/sites/paultassi/2020/03/23/netflixs-the-platform-is-a-brutal-capitalist-horror-film-for-precisely-this-moment/)
+- [VW’s electric ID.4 feels way more personalized than a Tesla](https://mashable.com/article/volkswagen-id4-electric-suv-interior/)
+- [DJI’s cinematic FPV drone leaks in photos](https://www.engadget.com/leaked-photos-show-possible-dji-fpv-racing-drone-093931662.html)
+- [Sigil Engine is a digital art project by creative team Darragh Mason and David Tidman.](https://www.sigilengine.com)
 - [Deep Thoughts Engineering Speaker Series: John Carmack](https://www.youtube.com/watch?v=dSCBCk4xVa0)
 - [How hard will the robots make us work?](https://www.theverge.com/platform/amp/2020/2/27/21155254/automation-robots-unemployment-jobs-vs-human-google-amazon?__twitter_impression=true)
 - [Homebridge is a lightweight NodeJS server you can run on your home network that emulates the iOS HomeKit AP](https://github.com/nfarina/homebridge)
